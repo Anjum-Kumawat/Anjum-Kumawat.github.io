@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: portfolio/covid.png
+img: covid.png
 alt: COVID-19 ETL Pipeline
 project-date: December 2025
 client: Personal Project
