@@ -2,10 +2,12 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: nba.png
+alt: NBA Stats Databricks Lakehouse
+project-date: February 2026
+client: Personal Project
+category: Data Engineering
+description: "Medallion Architecture (Bronze/Silver/Gold) on Databricks processing 90K+ rows of NBA stats across 6 datasets. 15+ PySpark transformations on Delta Lake with schema enforcement and time-travel. 3-page Power BI DirectQuery dashboard with player performance and team rankings."
+github: https://github.com/Anjum-Kumawat/nba-lakehouse-databricks
+
 ---
