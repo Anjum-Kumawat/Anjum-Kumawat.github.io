@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-13
-img: airquality.png
+img: portfolio/airquality.png
 alt: Air Quality EDA
 project-date: October 2025
 client: Personal Project
