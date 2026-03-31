@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: olist.png
+img: portfolio/olist.png
 alt: Olist E-Commerce Star Schema Pipeline
 project-date: January 2026
 client: Personal Project
