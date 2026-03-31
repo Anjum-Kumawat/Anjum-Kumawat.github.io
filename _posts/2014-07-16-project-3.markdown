@@ -2,10 +2,12 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: olist.png
+alt: Olist E-Commerce Star Schema Pipeline
+project-date: January 2026
+client: Personal Project
+category: Data Engineering
+description: "Star Schema data pipeline on Snowflake for 100K+ Brazilian e-commerce orders. 15 dbt models (PASS=15) covering staging, dimensions and facts. 3-page Power BI DirectQuery dashboard for sales, delivery analytics and customer segmentation."
+github: https://github.com/Anjum-Kumawat/olist-ecommerce-dbt
+
 ---
