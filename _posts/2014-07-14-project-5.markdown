@@ -2,10 +2,12 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: binance.png
+alt: Binance Spark Lakehouse
+project-date: November 2025
+client: Personal Project
+category: Data Engineering
+description: "Real-time Bitcoin price tracking pipeline using Apache Kafka as message broker and Spark Structured Streaming for processing. Data stored in Delta Lake with ACID transactions. Live Streamlit visualization dashboard for real-time price monitoring."
+github: https://github.com/Anjum-Kumawat/Binance-Spark-Lakehouse
+
 ---
