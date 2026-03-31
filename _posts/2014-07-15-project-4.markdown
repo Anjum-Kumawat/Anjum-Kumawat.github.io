@@ -2,10 +2,12 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: covid.png
+alt: COVID-19 ETL Pipeline
+project-date: December 2025
+client: Personal Project
+category: Data Engineering
+description: "End-to-end ETL pipeline using Apache Airflow to orchestrate daily ingestion of COVID-19 data from a public API across 231 countries, containerized with Docker. 4 dbt models with 12 passing data quality tests. Power BI dashboard identifying Yemen (18% death rate) as highest risk globally."
+github: https://github.com/Anjum-Kumawat/covid-etl-pipeline
+
 ---
