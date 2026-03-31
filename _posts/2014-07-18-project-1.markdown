@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: spotify.png
+img: portfolio/spotify.png
 alt: Spotify Real-Time Streaming Pipeline
 project-date: March 2026
 client: Personal Project
