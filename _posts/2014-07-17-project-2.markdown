@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: nba.png
+img: portfolio/nba.png
 alt: NBA Stats Databricks Lakehouse
 project-date: February 2026
 client: Personal Project
